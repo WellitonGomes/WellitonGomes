@@ -47,8 +47,8 @@ Estou sempre buscando aprender mais e contribuir com soluções tecnológicas qu
 
 ### 📫 Contato
 
-- 📧 Email: [contato.wellitonsilva0015@gmail.com](mailto:contato.wellitonsilva0015@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/welliton-gomes]([https://www.linkedin.com/in/welliton-gomes/])
+- 📧 Email: [wellitonsilva0015@gmail.com](mailto:wellitonsilva0015@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/welliton-gomes/]([https://www.linkedin.com/in/welliton-gomes/])
 - 🧠 Organização: [github.com/jkGomesprogrammer](https://github.com/jkGomesprogrammer)
 - 🔗 Projeto atual: [JkHmi](https://github.com/JkDesenvolvimento/JkHmi)
 
