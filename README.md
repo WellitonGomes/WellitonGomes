@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Welliton! 👋</h1>
 
-<!--
-**WellitonGomes/WellitonGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Desenvolvedor Full-Stack Júnior <br/>
+  🎓 Estudante de Sistemas de Informação - UTFPR <br/>
+  💼 Atuando na <a href="https://github.com/jkGomesprogrammer">JK Soluções e Serviços</a> com sistemas para monitoramento de usinas <br/>
+  💡 Apaixonado por tecnologia, inovação e desafios!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+Sou técnico em Desenvolvimento de Sistemas pelo **Colégio Estadual Tancredo Neves (CETN)** e atualmente curso **Sistemas de Informação** na **UTFPR**. Trabalho como **Desenvolvedor Full-Stack Júnior** na <a href="https://github.com/jkGomesprogrammer">JK Soluções e Serviços</a>, atuando em um projeto autoral para **controladoria e monitoramento de usinas, dados e geração**.
+
+Estou sempre buscando aprender mais e contribuir com soluções tecnológicas que gerem impacto real.
+
+---
+
+### 💻 Tecnologias & Ferramentas
+
+#### Front-end  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### Back-end  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+
+#### Banco de Dados  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 🌱 Atualmente estudando
+
+- Estrutura de Dados
+- Clean Code & Boas Práticas
+- Integrações com APIs REST
+- Engenharia de Software
+
+---
+
+### 📫 Contato
+
+- 📧 Email: [contato.wellitonsilva0015@gmail.com](mailto:contato.wellitonsilva0015@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/welliton-gomes]([https://www.linkedin.com/in/welliton-gomes/])
+- 🧠 Organização: [github.com/jkGomesprogrammer](https://github.com/jkGomesprogrammer)
+- 🔗 Projeto atual: [JkHmi](https://github.com/JkDesenvolvimento/JkHmi)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WellitonGomes&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+⭐ _Obrigado por visitar meu perfil! Vamos construir algo incrível juntos!_
