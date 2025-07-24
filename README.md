@@ -19,22 +19,30 @@ Estou sempre buscando aprender mais e contribuir com soluções tecnológicas qu
 
 ### 💻 Tecnologias & Ferramentas
 
-#### Front-end  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
 
-#### Back-end  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
 
-#### Banco de Dados  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="80" style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3)); transition: transform 0.3s;" />
+
+</div>
+
+<style>
+  img:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 ---
+
 
 ### 🌱 Atualmente estudando
 
