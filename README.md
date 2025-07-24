@@ -35,12 +35,6 @@ Estou sempre buscando aprender mais e contribuir com soluções tecnológicas qu
 
 </div>
 
-<style>
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
 ---
 
 
